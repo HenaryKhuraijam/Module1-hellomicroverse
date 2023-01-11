@@ -1,3 +1,3 @@
 # Create Development Branch
 
-# Create Feature Branchad
+# Create feature branch
